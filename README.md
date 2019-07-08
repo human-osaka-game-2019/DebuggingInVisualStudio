@@ -27,7 +27,7 @@ VisualStudioを用いたデバッグ方法についてまとめて下さい。
 |上野|https://github.com/ueno1236/VisualStudioReport|
 |大浦||
 |岡本||
-|上久保||
+|上久保|https://github.com/gotakamikubo/VisualStudioDebug-KamikuboGota-|
 |金||
 |玉井||
 |堂前||
