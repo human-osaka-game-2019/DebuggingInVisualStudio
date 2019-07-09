@@ -25,7 +25,7 @@ VisualStudioを用いたデバッグ方法についてまとめて下さい。
 |:-|:-|
 |井上||
 |上野|https://github.com/ueno1236/VisualStudioReport|
-|大浦||https://github.com/KazumaOhura/DebugReport|
+|大浦|https://github.com/KazumaOhura/DebugReport|
 |岡本|https://github.com/OkamotoKazuma/VisualStudio_Debug|
 |上久保|https://github.com/gotakamikubo/VisualStudioDebug-KamikuboGota-|
 |金|https://github.com/kimgeonguk/Debug-VisualStudioReport|
